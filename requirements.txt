@@ -36,7 +36,7 @@ idna==2.6
 imageio==2.3.0
 itypes==1.1.0
 moviepy==0.2.3.4
-numpy==1.14.3
+numpy==1.22.0
 pip==10.0.1
 pytz==2018.4
 requests==2.18.4
